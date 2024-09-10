@@ -77,3 +77,6 @@ Questo script Bash ha il compito di creare un video a partire da una serie di im
 
 ### Usi e potenzialità:
 Questo script è utile per automatizzare la creazione di slideshow video a partire da una collezione di immagini. Può essere facilmente adattato modificando la directory delle immagini, la durata di visualizzazione di ogni immagine o il frame rate del video risultante.
+
+### Esempio di un video realizzato con lo script:
+(https://youtu.be/cE1VIDv61nA)
